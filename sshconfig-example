@@ -1,12 +1,12 @@
 ForwardAgent yes
 
-Host nas
+Host nas-34
     User bob
     IdentityFile ~/.ssh/id_rsa
     Hostname nas-034.internal.emmanuelbernard.com
 
 
-Host prod
+Host production
     User manu-masterorslave
     IdentityFile ~/.ssh/id_rsa_pro
     Port 34
