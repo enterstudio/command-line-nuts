@@ -1,7 +1,7 @@
 ForwardAgent yes
 
 Host nas
-    User emmanuel
+    User bob
     IdentityFile ~/.ssh/id_rsa
     Hostname nas-034.internal.emmanuelbernard.com
 
